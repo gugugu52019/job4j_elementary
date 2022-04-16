@@ -1,8 +1,7 @@
 package ru.job4j.condition;
 
 public class Greeting {
-    @SuppressWarnings("checkstyle:EmptyLineSeparator")
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         String idea = "I like Java!";
         System.out.println(idea);
         idea += " But I am a newbie. ";
